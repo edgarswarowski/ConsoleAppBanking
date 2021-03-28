@@ -42,6 +42,7 @@ namespace DIO.Bank
 
             Console.WriteLine("Obrigado por utilizar os nossos serviços!");
             Console.ReadLine();
+            Console.WriteLine();
         }
 
         private static void Depositar()
